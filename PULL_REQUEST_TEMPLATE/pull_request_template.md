@@ -9,5 +9,5 @@ If any UX has changed a picture should be attached to show the new user experien
 
 ## TODO List
 Before merging, a PR will need
-- [ ] Signoff from @Zach-at-Arch for UX
+- [ ] Signoff from product if there are UX changes
 - [ ] Signoff from one other engineer at Architect.io
